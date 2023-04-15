@@ -1,1 +1,1 @@
-# gban-bot
+# GBan nhưng méo ban out ai
